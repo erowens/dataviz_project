@@ -1,4 +1,4 @@
-# dataviz_project
+# Data Visualization Project
 Code pertaining to the Final Project for MSDS 622 Data Visualization
 
 Assignment Details:
